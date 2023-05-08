@@ -17,6 +17,7 @@ int main(void) {
 	printf("\t1. Fahrenheit to Celsius\n");
 	printf("\t2. Celsius to Fahrenheit\n");
 	printf("\t3. Fahrenheit to Kelvin\n");
+	printf("\t4. Celsius to Kelvin\n");
 	printf("Please enter the number that corresponds to the options above: ");
 	scanf("%d", &option);
   }
@@ -41,6 +42,13 @@ int main(void) {
 	  printf("Please enter your number in Fahrenheit: ");
 	  scanf("%lf", &fahrenheit);
 	  printf("Your number in fahrenheit is: %.1lf\n", ((fahrenheit - 32) * 5/9 + 273.15));
+  }
+	
+  else if (option == 4)
+  {
+	  printf("Please enter your number in Celsius: ");
+	  scanf("%lf", &celsius);
+	  printf("Your number in fahrenheit is: %.1lf\n", celsius + 273.15)
   }
 
   else 
