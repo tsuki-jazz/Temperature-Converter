@@ -10,7 +10,7 @@ This C project is a temperature converter from that has an option of Fahrenheit 
 
 **How to Use the Program**
 
-To use this program, you need to select which conversion you would like to use. The current options are  'Fahrenheit to Celsius' or 'Celsius to Fahrenheit'. Then, you need to input the value in Fahrenheit or Celsius. Afterwards, the program will send back your converted value.
+To use this program, you need to select which conversion you would like to use. Then, you need to input the value in Fahrenheit or Celsius. Afterwards, the program will send back your converted value.
 
 **Who is Temperature Converter for?**
 
