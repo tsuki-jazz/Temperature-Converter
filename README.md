@@ -1,5 +1,9 @@
 ### Temperature Converter
 
+**Version**
+
+Current Version: 1.0.x
+
 **Description**
 
 This C project is a temperature converter from that has an option of Fahrenheit to Celsius and Celsius to Fahrenheit. It is a simple tool for converting between those temperatures. 
