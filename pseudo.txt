@@ -1,0 +1,26 @@
+Temperature Convertertor Pseudocode
+
+1. START
+2. Declare variable: int option, double fahrenheit, int continueProgram;
+2. Display "Welcome to the Temperature Converter".
+3. Display "Here are the following converting options."
+4. Display "1. Fahrenheit to Celsius"
+  	   "2. Celsius to Fahrenheit"
+5. Display "Please enter the number that corresponds to the options above."
+6. Ask for user input and store the user input in option variable.
+7. If option is 1...
+	Display: "Please enter your number in Fahrenheit."
+	Store the user input for fahrenheit in the variable fahrenheit.
+	Display: "Your number celsius is ((fahrenheit x 9/5) + 32)).
+	END 
+	
+8. If option is 2...
+	Display: "Please enter your number in Celsius."
+	Store the user input for fahrenheit in the variable celsius.
+	Display: "Your number fahrenheit is ((fahrenheit x 9/5) + 32)).
+	END
+
+9. If option equals is less than 1 and greater than 2...
+	Display: "ERROR: Invalid option selected."
+	END
+
