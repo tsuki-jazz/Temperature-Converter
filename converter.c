@@ -40,7 +40,7 @@ int main(void) {
   {
 	  printf("Please enter your number in Fahrenheit: ");
 	  scanf("%lf", &fahrenheit);
-	  printf("Your number in fahrenheit is: %.1lf\n", ((fahrenheit - 32) * 5/9 + 273.15);
+	  printf("Your number in fahrenheit is: %.1lf\n", ((fahrenheit - 32) * 5/9 + 273.15));
   }
 
   else 
