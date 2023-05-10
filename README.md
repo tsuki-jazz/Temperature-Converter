@@ -1,12 +1,11 @@
 ### Temperature Converter
 
+![image](https://github.com/tsuki-jazz/Temperature-Converter/assets/117048397/68a2c0e4-d156-445b-afc9-60861d045adf)
+
+
 **Version**
 
 Current Version: 1.0.x
-
-**Description**
-
-This C project is a temperature converter from that has an option of Fahrenheit to Celsius and Celsius to Fahrenheit. It is a simple tool for converting between those temperatures. 
 
 **How to Use the Program**
 
